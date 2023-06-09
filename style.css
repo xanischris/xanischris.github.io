@@ -13,7 +13,8 @@ form {
 
 input[type=text] {
     border-radius: 24px;
-    size: 50;
+    size: 50ch;
+    height: 60px;
 }
 
 a {
