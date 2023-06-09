@@ -1,3 +1,21 @@
 body {
-    font-family: Product Sans;
+    font-family: Product Sans, Roboto, Tahoma;    
+}
+
+input {
+    display: block;
+}
+
+form {
+    text-align: center;
+    padding-top:100px;
+}
+
+input[type=text] {
+    border-radius: 24px;
+    size: 50;
+}
+
+a {
+    color: black;
 }
