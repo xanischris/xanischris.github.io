@@ -16,6 +16,7 @@ input[type=text] {
     border-radius: 24px;
     size: 150px;
     height: 60px;
+    display: block;
 }
 
 a {
