@@ -46,4 +46,5 @@ h3 {
 .mainmenu {
     margin-left: 15px;
     margin-top: 15px;
+    display: inline;
 }
