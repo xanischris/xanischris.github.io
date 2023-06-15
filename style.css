@@ -28,6 +28,6 @@ h2, h3 {
 }
 
 .centercode {
+    margin: auto;
     display: block;
-    text-align: center;
 }
