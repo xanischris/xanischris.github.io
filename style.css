@@ -14,7 +14,7 @@ form {
 input[type=text] {
     border-radius: 14px;
     border-color: grey;
-    size: 250px;
+    width: 200px;
     height: 30px;
     display: block;
 }
@@ -41,4 +41,9 @@ h3 {
 }
 .subbutton {
     margin-top: 20px;
+}
+
+.mainmenu {
+    margin-left: 15px;
+    margin-top: 15px;
 }
