@@ -7,13 +7,11 @@ input {
 }
 
 form {
-    text-align: center;
     margin-top:100px;
 }
 
 input[type=text] {
-    text-align: center;
-    border-radius: 24px;
+    border-radius: 14px;
     border-color: grey;
     size: 250px;
     height: 30px;
@@ -30,5 +28,6 @@ h2, h3 {
 }
 
 .centercode {
+    display: block;
     text-align: center;
 }
